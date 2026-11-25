@@ -59,7 +59,7 @@ module.exports = {
   RENDER_API: process.env.RENDER_API || process.env.RENDER_API_KEY,
   RENDER_APP_NAME: process.env.RENDER_APP_NAME || process.env.RENDER_NAME,
   SAVE_STATUS: toBool(process.env.SAVE_STATUS || "false"),
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'Jarvis_720w_341v_64x9_9315_0u60_6849_7y12_1vy8',
   STARTING_MSG: toBool(process.env.STARTING_MSG || "false"),
   STATUS_REACTION: toBool(process.env.STATUS_REACTION || "false"),
   STATUS_REACTION_EMOJI: process.env.STATUS_REACTION_EMOJI || "🍉,🍓",
